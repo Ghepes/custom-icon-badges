@@ -1,8 +1,8 @@
 # Custom Icon Badges
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://github.com/DenverCoder1/custom-icon-badges/stargazers "stars")
-[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue)](https://github.com/DenverCoder1/custom-icon-badges/issues "issues")
-[![license](https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law&logoColor=white)](https://github.com/DenverCoder1/custom-icon-badges/blob/main/LICENSE?rgh-link-date=2021-08-09T18%3A10%3A26Z "license MIT")
+[![stars](https://custom-icon-badges.demolab.com/github/stars/Ghepes/custom-icon-badges?logo=star)](https://github.com/Ghepes/custom-icon-badges/stargazers "stars")
+[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/Ghepes/custom-icon-badges?logo=issue)](https://github.com/Ghepes/custom-icon-badges/issues "issues")
+[![license](https://custom-icon-badges.demolab.com/github/license/Ghepes/custom-icon-badges?logo=law&logoColor=white)](https://github.com/Ghepes/custom-icon-badges/blob/main/LICENSE?rgh-link-date=2021-08-09T18%3A10%3A26Z "license MIT")
 [![discord](https://custom-icon-badges.demolab.com/discord/819650821314052106?color=7289DA&logo=comments&label=discord&logoColor=white)](https://discord.gg/fPrdqh3Zfu "Dev Pro Tips Discussion & Support Server")
 
 Allows users to more easily use Octicons and their own icons and logos on [shields.io badges](https://github.com/badges/shields).
@@ -168,19 +168,19 @@ Click to get the URL!
 [![use template][23]][23]
 [![github action][24]][24]
 
-[1]: https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star
-[2]: https://custom-icon-badges.demolab.com/github/issues-raw/DenverCoder1/custom-icon-badges?logo=issue
-[3]: https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law
-[4]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
-[5]: https://custom-icon-badges.demolab.com/github/last-commit/DenverCoder1/custom-icon-badges?logo=history&logoColor=white
-[6]: https://custom-icon-badges.demolab.com/github/languages/code-size/DenverCoder1/custom-icon-badges?logo=file-code&logoColor=white
-[7]: https://custom-icon-badges.demolab.com/github/issues-pr-closed/DenverCoder1/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white
-[8]: https://custom-icon-badges.demolab.com/github/v/tag/DenverCoder1/custom-icon-badges?logo=tag&logoColor=white
+[1]: https://custom-icon-badges.demolab.com/github/stars/Ghepes/custom-icon-badges?logo=star
+[2]: https://custom-icon-badges.demolab.com/github/issues-raw/Ghepes/custom-icon-badges?logo=issue
+[3]: https://custom-icon-badges.demolab.com/github/license/Ghepes/custom-icon-badges?logo=law
+[4]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/Ghepes/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
+[5]: https://custom-icon-badges.demolab.com/github/last-commit/Ghepes/custom-icon-badges?logo=history&logoColor=white
+[6]: https://custom-icon-badges.demolab.com/github/languages/code-size/Ghepes/custom-icon-badges?logo=file-code&logoColor=white
+[7]: https://custom-icon-badges.demolab.com/github/issues-pr-closed/Ghepes/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white
+[8]: https://custom-icon-badges.demolab.com/github/v/tag/Ghepes/custom-icon-badges?logo=tag&logoColor=white
 [9]: https://custom-icon-badges.demolab.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white
-[10]: https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?logo=person-add&style=social&logoColor=black
-[11]: https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star&style=social&logoColor=black
-[12]: https://custom-icon-badges.demolab.com/github/forks/DenverCoder1/custom-icon-badges?logo=fork&style=social&logoColor=black
-[13]: https://custom-icon-badges.demolab.com/github/watchers/DenverCoder1/custom-icon-badges?logo=eye&style=social&logoColor=black
+[10]: https://custom-icon-badges.demolab.com/github/followers/Ghepes?logo=person-add&style=social&logoColor=black
+[11]: https://custom-icon-badges.demolab.com/github/stars/Ghepes/custom-icon-badges?logo=star&style=social&logoColor=black
+[12]: https://custom-icon-badges.demolab.com/github/forks/Ghepes/custom-icon-badges?logo=fork&style=social&logoColor=black
+[13]: https://custom-icon-badges.demolab.com/github/watchers/Ghepes/custom-icon-badges?logo=eye&style=social&logoColor=black
 [14]: https://custom-icon-badges.demolab.com/npm/dw/react-bootstrap?logo=download&style=social&label=Download&logoColor=black
 [15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
 [16]: https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
@@ -192,8 +192,8 @@ Click to get the URL!
 [22]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
 [23]: https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white
 [24]: https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white
-[25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
-[26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DDenverCoder1%26type%3Djson
+[25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DGhepes%26type%3Djson
+[26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DGhepes%26type%3Djson
 
 ## 🖥️ Using a Different Badge Host
 
@@ -223,7 +223,7 @@ Deploying on your own is optional. See the steps below.
 2. Click the Deploy button below
 
   <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/DenverCoder1/custom-icon-badges/tree/main">
+    <a href="https://heroku.com/deploy?template=https://github.com/Ghepes/custom-icon-badges/tree/main">
       <img src="https://www.herokucdn.com/deploy/button.svg" title="Deploy to Heroku" alt="Deploy"/></a>
   </p>
 
@@ -238,14 +238,14 @@ Deploying on your own is optional. See the steps below.
 
 ## 💬 Questions?
 
-Feel free to [open an issue](http://github.com/DenverCoder1/custom-icon-badges/issues/new/choose).
+Feel free to [open an issue](http://github.com/Ghepes/custom-icon-badges/issues/new/choose).
 
 ## 🤩 Support
 
 💙 If you like this project, give it a ⭐ and share it with friends!
 
 [![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel")
-[![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/DenverCoder1 "Sponsor me on GitHub")
+[![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/Ghepes "Sponsor me on GitHub")
 [![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jlawrence "Buy me a coffee")
 
 ## 👨‍💻 Technologies

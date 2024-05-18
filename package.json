@@ -6,10 +6,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DenverCoder1/custom-icon-badges.git"
+    "url": "git+https://github.com/Ghepes/custom-icon-badges.git"
   },
   "bugs": {
-    "url": "https://github.com/DenverCoder1/custom-icon-badges/issues"
+    "url": "https://github.com/Ghepes/custom-icon-badges/issues"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^6.1.4",

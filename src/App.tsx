@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Custom Icon Badges</h1>
-        <GitHubButtons user="DenverCoder1" repo="custom-icon-badges" />
+        <GitHubButtons user="Ghepes" repo="custom-icon-badges" />
         <UploadForm />
       </header>
     </div>

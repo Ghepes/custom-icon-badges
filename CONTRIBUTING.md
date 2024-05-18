@@ -17,7 +17,7 @@ Make sure your request is meaningful and you have tested the app locally before 
 ### Clone the repository
 
 ```
-git clone https://github.com/DenverCoder1/custom-icon-badges.git
+git clone https://github.com/Ghepes/custom-icon-badges.git
 cd custom-icon-badges
 ```
 
