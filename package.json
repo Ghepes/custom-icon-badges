@@ -1,8 +1,8 @@
 {
-  "name": "custom-icon-badges-client",
-  "version": "0.12.1",
-  "description": "Allows users to more easily use their own icons and logos in shields.io badges",
-  "author": "Jonah Lawrence",
+  "name": "custom-icon-badges",
+  "version": "0.2.2",
+  "description": "Allows new icons and logos in shields.io badges",
+  "author": "Iulian Ghepes",
   "license": "MIT",
   "repository": {
     "type": "git",

@@ -1,9 +1,9 @@
 # Custom Icon Badges
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/Ghepes/custom-icon-badges?logo=star)](https://github.com/Ghepes/custom-icon-badges/stargazers "stars")
-[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/Ghepes/custom-icon-badges?logo=issue)](https://github.com/Ghepes/custom-icon-badges/issues "issues")
-[![license](https://custom-icon-badges.demolab.com/github/license/Ghepes/custom-icon-badges?logo=law&logoColor=white)](https://github.com/Ghepes/custom-icon-badges/blob/main/LICENSE?rgh-link-date=2021-08-09T18%3A10%3A26Z "license MIT")
-[![discord](https://custom-icon-badges.demolab.com/discord/819650821314052106?color=7289DA&logo=comments&label=discord&logoColor=white)](https://discord.gg/fPrdqh3Zfu "Dev Pro Tips Discussion & Support Server")
+[![stars](https://custom-icon-badges.vercel.app/github/stars/Ghepes/custom-icon-badges?logo=star)](https://github.com/Ghepes/custom-icon-badges/stargazers "stars")
+[![issues](https://custom-icon-badges.vercel.app/github/issues-raw/Ghepes/custom-icon-badges?logo=issue)](https://github.com/Ghepes/custom-icon-badges/issues "issues")
+[![license](https://custom-icon-badges.vercel.app/github/license/Ghepes/custom-icon-badges?logo=law&logoColor=white)](https://github.com/Ghepes/custom-icon-badges/blob/main/LICENSE?rgh-link-date=2021-08-09T18%3A10%3A26Z "license MIT")
+[![discord](https://custom-icon-badges.vercel.app/discord/819650821314052106?color=7289DA&logo=comments&label=discord&logoColor=white)](https://discord.gg/fPrdqh3Zfu "Dev Pro Tips Discussion & Support Server")
 
 Allows users to more easily use Octicons and their own icons and logos on [shields.io badges](https://github.com/badges/shields).
 
@@ -11,17 +11,17 @@ Allows users to more easily use Octicons and their own icons and logos on [shiel
 
 1. Get a badge URL from [shields.io](https://shields.io/).
 
-2. Replace `img.shields.io` with `custom-icon-badges.demolab.com`
+2. Replace `img.shields.io` with `custom-icon-badges.vercel.app`
 
-3. Use any [available slug](#%EF%B8%8F-existing-logos) as the logo query parameter or [upload your own](https://custom-icon-badges.demolab.com).
+3. Use any [available slug](#%EF%B8%8F-existing-logos) as the logo query parameter or [upload your own](https://custom-icon-badges.vercel.app).
 
 ```md
-https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
+https://custom-icon-badges.vercel.app/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white
 ```
 
 Preview:
 
-![img](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)
+![img](https://custom-icon-badges.vercel.app/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white)
 
 4. You're done! Use the image URL in your HTML or markdown! Star this repo if you find it useful! ⭐
 
@@ -51,14 +51,14 @@ All [250+ Octicons](https://primer.style/octicons/) from GitHub are supported by
 | `mail`             | [![mail][mail]][mail]                                     |
 | More Octicons      | [View all ⇨](https://primer.style/octicons)               |
 
-[issue-opened]: https://custom-icon-badges.demolab.com/badge/Issue-red.svg?logo=issue-opened&logoColor=fff
-[repo-forked]: https://custom-icon-badges.demolab.com/badge/Fork-orange.svg?logo=fork
-[star]: https://custom-icon-badges.demolab.com/badge/Star-yellow.svg?logo=star
-[git-commit]: https://custom-icon-badges.demolab.com/badge/Commit-green.svg?logo=git-commit&logoColor=fff
-[repo]: https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo
-[git-pull-request]: https://custom-icon-badges.demolab.com/badge/Pull%20Request-purple.svg?logo=pr
-[heart]: https://custom-icon-badges.demolab.com/badge/Heart-D15E9B.svg?logo=heart
-[mail]: https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail
+[issue-opened]: https://custom-icon-badges.vercel.app/badge/Issue-red.svg?logo=issue-opened&logoColor=fff
+[repo-forked]: https://custom-icon-badges.vercel.app/badge/Fork-orange.svg?logo=fork
+[star]: https://custom-icon-badges.vercel.app/badge/Star-yellow.svg?logo=star
+[git-commit]: https://custom-icon-badges.vercel.app/badge/Commit-green.svg?logo=git-commit&logoColor=fff
+[repo]: https://custom-icon-badges.vercel.app/badge/Repo-blue.svg?logo=repo
+[git-pull-request]: https://custom-icon-badges.vercel.app/badge/Pull%20Request-purple.svg?logo=pr
+[heart]: https://custom-icon-badges.vercel.app/badge/Heart-D15E9B.svg?logo=heart
+[mail]: https://custom-icon-badges.vercel.app/badge/Mail-E61B23.svg?logo=mail
 
 ### Feather Icons
 
@@ -83,19 +83,19 @@ All [250+ Feather Icons](https://feathericons.com/) are supported by Custom Icon
 | `youtube`          | [![youtube][youtube]][youtube]                      |
 | More Feather Icons | [View all ⇨](https://feathericons.com/)             |
 
-[activity]: https://custom-icon-badges.demolab.com/badge/activity-red.svg?logo=activity&logoSource=feather
-[alert-triangle]: https://custom-icon-badges.demolab.com/badge/alert--triangle-orange.svg?logo=alert-triangle&logoSource=feather
-[award]: https://custom-icon-badges.demolab.com/badge/award-yellow.svg?logo=award&logoSource=feather
-[bar-chart]: https://custom-icon-badges.demolab.com/badge/bar--chart-green.svg?logo=bar-chart&logoSource=feather
-[box]: https://custom-icon-badges.demolab.com/badge/box-blue.svg?logo=box&logoSource=feather
-[camera]: https://custom-icon-badges.demolab.com/badge/camera-purple.svg?logo=camera&logoSource=feather
-[cast]: https://custom-icon-badges.demolab.com/badge/cast-pink.svg?logo=cast&logoSource=feather&logoColor=black
-[command]: https://custom-icon-badges.demolab.com/badge/command-brown.svg?logo=command&logoSource=feather
-[dollar-sign]: https://custom-icon-badges.demolab.com/badge/dollar--sign-grey.svg?logo=dollar-sign&logoSource=feather
-[download-cloud]: https://custom-icon-badges.demolab.com/badge/download--cloud-black.svg?logo=download-cloud&logoSource=feather
-[upload-cloud]: https://custom-icon-badges.demolab.com/badge/upload--cloud-purple.svg?logo=upload-cloud&logoSource=feather
-[tv]: https://custom-icon-badges.demolab.com/badge/tv-blue.svg?logo=tv&logoSource=feather
-[youtube]: https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather
+[activity]: https://custom-icon-badges.vercel.app/badge/activity-red.svg?logo=activity&logoSource=feather
+[alert-triangle]: https://custom-icon-badges.vercel.app/badge/alert--triangle-orange.svg?logo=alert-triangle&logoSource=feather
+[award]: https://custom-icon-badges.vercel.app/badge/award-yellow.svg?logo=award&logoSource=feather
+[bar-chart]: https://custom-icon-badges.vercel.app/badge/bar--chart-green.svg?logo=bar-chart&logoSource=feather
+[box]: https://custom-icon-badges.vercel.app/badge/box-blue.svg?logo=box&logoSource=feather
+[camera]: https://custom-icon-badges.vercel.app/badge/camera-purple.svg?logo=camera&logoSource=feather
+[cast]: https://custom-icon-badges.vercel.app/badge/cast-pink.svg?logo=cast&logoSource=feather&logoColor=black
+[command]: https://custom-icon-badges.vercel.app/badge/command-brown.svg?logo=command&logoSource=feather
+[dollar-sign]: https://custom-icon-badges.vercel.app/badge/dollar--sign-grey.svg?logo=dollar-sign&logoSource=feather
+[download-cloud]: https://custom-icon-badges.vercel.app/badge/download--cloud-black.svg?logo=download-cloud&logoSource=feather
+[upload-cloud]: https://custom-icon-badges.vercel.app/badge/upload--cloud-purple.svg?logo=upload-cloud&logoSource=feather
+[tv]: https://custom-icon-badges.vercel.app/badge/tv-blue.svg?logo=tv&logoSource=feather
+[youtube]: https://custom-icon-badges.vercel.app/badge/youtube-red.svg?logo=youtube&logoSource=feather
 
 ### Miscellaneous
 
@@ -106,20 +106,20 @@ All [250+ Feather Icons](https://feathericons.com/) are supported by Custom Icon
 | [![trending-down][trending-down]][trending-down] | [![phone][phone]][phone]                      | [![pygame][pygame]][pygame]             | [![grey-pygame][grey-pygame]][grey-pygame] |
 | Add your own!                                    | [![Upload Icon][uploadicon]][demo]            |                                         |                                            |
 
-[ceylon]: https://custom-icon-badges.demolab.com/badge/ceylon-E39842.svg?logo=ceylon&logoColor=fff
-[color-swatch]: https://custom-icon-badges.demolab.com/badge/color--swatch-green.svg?logo=color-swatch&logoColor=fff
-[controller]: https://custom-icon-badges.demolab.com/badge/controller-purple.svg?logo=controller
-[issue]: https://custom-icon-badges.demolab.com/badge/issue-orange.svg?logo=issue&logoColor=fff
-[fire]: https://custom-icon-badges.demolab.com/badge/fire-red.svg?logo=fire&logoColor=fff
-[flag]: https://custom-icon-badges.demolab.com/badge/flag-green.svg?logo=flag&logoColor=fff
-[translate]: https://custom-icon-badges.demolab.com/badge/translate-blue.svg?logo=translate&logoColor=white
-[trending-up]: https://custom-icon-badges.demolab.com/badge/trending--up-brightgreen.svg?logoColor=fff&logo=trending-up
-[trending-down]: https://custom-icon-badges.demolab.com/badge/trending--down-red.svg?logoColor=fff&logo=trending-down
-[phone]: https://custom-icon-badges.demolab.com/badge/phone-green.svg?logo=phone&logoColor=white
-[pygame]: https://custom-icon-badges.demolab.com/badge/pygame-013243.svg?logo=pygame
-[grey-pygame]: https://custom-icon-badges.demolab.com/badge/pygame-150458.svg?logo=grey-pygame
-[uploadicon]: https://custom-icon-badges.demolab.com/badge/Upload%20Icon-blue.svg?logo=upload&logoColor=white
-[demo]: https://custom-icon-badges.demolab.com
+[ceylon]: https://custom-icon-badges.vercel.app/badge/ceylon-E39842.svg?logo=ceylon&logoColor=fff
+[color-swatch]: https://custom-icon-badges.vercel.app/badge/color--swatch-green.svg?logo=color-swatch&logoColor=fff
+[controller]: https://custom-icon-badges.vercel.app/badge/controller-purple.svg?logo=controller
+[issue]: https://custom-icon-badges.vercel.app/badge/issue-orange.svg?logo=issue&logoColor=fff
+[fire]: https://custom-icon-badges.vercel.app/badge/fire-red.svg?logo=fire&logoColor=fff
+[flag]: https://custom-icon-badges.vercel.app/badge/flag-green.svg?logo=flag&logoColor=fff
+[translate]: https://custom-icon-badges.vercel.app/badge/translate-blue.svg?logo=translate&logoColor=white
+[trending-up]: https://custom-icon-badges.vercel.app/badge/trending--up-brightgreen.svg?logoColor=fff&logo=trending-up
+[trending-down]: https://custom-icon-badges.vercel.app/badge/trending--down-red.svg?logoColor=fff&logo=trending-down
+[phone]: https://custom-icon-badges.vercel.app/badge/phone-green.svg?logo=phone&logoColor=white
+[pygame]: https://custom-icon-badges.vercel.app/badge/pygame-013243.svg?logo=pygame
+[grey-pygame]: https://custom-icon-badges.vercel.app/badge/pygame-150458.svg?logo=grey-pygame
+[uploadicon]: https://custom-icon-badges.vercel.app/badge/Upload%20Icon-blue.svg?logo=upload&logoColor=white
+[demo]: https://custom-icon-badges.vercel.app
 
 ## ➕ Adding a new logo
 
@@ -129,9 +129,9 @@ The file type can be SVG, PNG, etc. but only SVG format supports the `logoColor`
 
 If you think your icon is useful to others, feel free to open a PR to add it to the README above!
 
-Demo site: <https://custom-icon-badges.demolab.com>
+Demo site: <https://custom-icon-badges.vercel.app>
 
-[![image](https://user-images.githubusercontent.com/20955511/128404656-30af9c39-39a4-4ac8-a4b0-2a077806a94c.png)](https://custom-icon-badges.demolab.com)
+[![image](https://user-images.githubusercontent.com/20955511/128404656-30af9c39-39a4-4ac8-a4b0-2a077806a94c.png)](https://custom-icon-badges.vercel.app)
 
 ## 🚀 Example Usage
 
@@ -168,32 +168,32 @@ Click to get the URL!
 [![use template][23]][23]
 [![github action][24]][24]
 
-[1]: https://custom-icon-badges.demolab.com/github/stars/Ghepes/custom-icon-badges?logo=star
-[2]: https://custom-icon-badges.demolab.com/github/issues-raw/Ghepes/custom-icon-badges?logo=issue
-[3]: https://custom-icon-badges.demolab.com/github/license/Ghepes/custom-icon-badges?logo=law
-[4]: https://custom-icon-badges.demolab.com/github/actions/workflow/status/Ghepes/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
-[5]: https://custom-icon-badges.demolab.com/github/last-commit/Ghepes/custom-icon-badges?logo=history&logoColor=white
-[6]: https://custom-icon-badges.demolab.com/github/languages/code-size/Ghepes/custom-icon-badges?logo=file-code&logoColor=white
-[7]: https://custom-icon-badges.demolab.com/github/issues-pr-closed/Ghepes/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white
-[8]: https://custom-icon-badges.demolab.com/github/v/tag/Ghepes/custom-icon-badges?logo=tag&logoColor=white
-[9]: https://custom-icon-badges.demolab.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white
-[10]: https://custom-icon-badges.demolab.com/github/followers/Ghepes?logo=person-add&style=social&logoColor=black
-[11]: https://custom-icon-badges.demolab.com/github/stars/Ghepes/custom-icon-badges?logo=star&style=social&logoColor=black
-[12]: https://custom-icon-badges.demolab.com/github/forks/Ghepes/custom-icon-badges?logo=fork&style=social&logoColor=black
-[13]: https://custom-icon-badges.demolab.com/github/watchers/Ghepes/custom-icon-badges?logo=eye&style=social&logoColor=black
-[14]: https://custom-icon-badges.demolab.com/npm/dw/react-bootstrap?logo=download&style=social&label=Download&logoColor=black
-[15]: https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
-[16]: https://custom-icon-badges.demolab.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
-[17]: https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white
-[18]: https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
-[19]: https://custom-icon-badges.demolab.com/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white
-[20]: https://custom-icon-badges.demolab.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
-[21]: https://custom-icon-badges.demolab.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
-[22]: https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
-[23]: https://custom-icon-badges.demolab.com/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white
-[24]: https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white
-[25]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DGhepes%26type%3Djson
-[26]: https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DGhepes%26type%3Djson
+[1]: https://custom-icon-badges.vercel.app/github/stars/Ghepes/custom-icon-badges?logo=star
+[2]: https://custom-icon-badges.vercel.app/github/issues-raw/Ghepes/custom-icon-badges?logo=issue
+[3]: https://custom-icon-badges.vercel.app/github/license/Ghepes/custom-icon-badges?logo=law
+[4]: https://custom-icon-badges.vercel.app/github/actions/workflow/status/Ghepes/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
+[5]: https://custom-icon-badges.vercel.app/github/last-commit/Ghepes/custom-icon-badges?logo=history&logoColor=white
+[6]: https://custom-icon-badges.vercel.app/github/languages/code-size/Ghepes/custom-icon-badges?logo=file-code&logoColor=white
+[7]: https://custom-icon-badges.vercel.app/github/issues-pr-closed/Ghepes/custom-icon-badges?color=purple&logo=git-pull-request&logoColor=white
+[8]: https://custom-icon-badges.vercel.app/github/v/tag/Ghepes/custom-icon-badges?logo=tag&logoColor=white
+[9]: https://custom-icon-badges.vercel.app/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white
+[10]: https://custom-icon-badges.vercel.app/github/followers/Ghepes?logo=person-add&style=social&logoColor=black
+[11]: https://custom-icon-badges.vercel.app/github/stars/Ghepes/custom-icon-badges?logo=star&style=social&logoColor=black
+[12]: https://custom-icon-badges.vercel.app/github/forks/Ghepes/custom-icon-badges?logo=fork&style=social&logoColor=black
+[13]: https://custom-icon-badges.vercel.app/github/watchers/Ghepes/custom-icon-badges?logo=eye&style=social&logoColor=black
+[14]: https://custom-icon-badges.vercel.app/npm/dw/react-bootstrap?logo=download&style=social&label=Download&logoColor=black
+[15]: https://custom-icon-badges.vercel.app/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo
+[16]: https://custom-icon-badges.vercel.app/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white
+[17]: https://custom-icon-badges.vercel.app/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white
+[18]: https://custom-icon-badges.vercel.app/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white
+[19]: https://custom-icon-badges.vercel.app/badge/Colorado-USA-purple?style=for-the-badge&logo=location&logoColor=white
+[20]: https://custom-icon-badges.vercel.app/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened
+[21]: https://custom-icon-badges.vercel.app/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black
+[22]: https://custom-icon-badges.vercel.app/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black
+[23]: https://custom-icon-badges.vercel.app/badge/-Use%20Template-teal?style=for-the-badge&logo=repo-template&logoColor=white
+[24]: https://custom-icon-badges.vercel.app/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white
+[25]: https://custom-icon-badges.vercel.app/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.vercel.app%2F%3Fuser%3DGhepes%26type%3Djson
+[26]: https://custom-icon-badges.vercel.app/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fstreak-stats.vercel.app%2F%3Fuser%3DGhepes%26type%3Djson
 
 ## 🖥️ Using a Different Badge Host
 
@@ -232,7 +232,7 @@ Deploying on your own is optional. See the steps below.
 ![image](https://user-images.githubusercontent.com/20955511/126066250-108fc119-4bc3-4ba0-9b07-0c7402c5790e.png)
 
 4. Click **"Deploy App"** at the end of the form
-5. Once the app is deployed, you can use `<your-app-name>.herokuapp.com` in place of `custom-icon-badges.demolab.com`
+5. Once the app is deployed, you can use `<your-app-name>.herokuapp.com` in place of `custom-icon-badges.vercel.app`
 
 </details>
 
@@ -244,17 +244,17 @@ Feel free to [open an issue](http://github.com/Ghepes/custom-icon-badges/issues/
 
 💙 If you like this project, give it a ⭐ and share it with friends!
 
-[![YouTube](https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel")
-[![Sponsor with Github](https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/Ghepes "Sponsor me on GitHub")
-[![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jlawrence "Buy me a coffee")
+[![YouTube](https://custom-icon-badges.vercel.app/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white)](https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1 "Subscribe to my YouTube channel")
+[![Sponsor with Github](https://custom-icon-badges.vercel.app/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/Ghepes "Sponsor me on GitHub")
+[![Buy me a coffee](https://custom-icon-badges.vercel.app/badge/-Buy_me_a_coffee-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jlawrence "Buy me a coffee")
 
 ## 👨‍💻 Technologies
 
-[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Express](https://custom-icon-badges.demolab.com/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://custom-icon-badges.vercel.app/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express](https://custom-icon-badges.vercel.app/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://custom-icon-badges.vercel.app/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://custom-icon-badges.vercel.app/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-![Uses Shields.io](https://custom-icon-badges.demolab.com/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)
+![Uses Shields.io](https://custom-icon-badges.vercel.app/badge/-Uses_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white)
 [![Made with TypeScript](https://img.shields.io/badge/-Made_with_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Powered by Heroku](https://img.shields.io/badge/-Powered_by_Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/)
