@@ -1,10 +1,8 @@
 {
   "name": "Custom Icon Badges",
   "description": "Allows new icons and logos in shields.io badges",
-  "repository": "https://github.com/Ghepes/custom-icon-badges",
-  "keywords": ["badge", "icons", "github", "svg", "status", "custom", "badge-maker"],
-  "website": "https://custom-icon-badges-iota.vercel.app",
   "logo": "https://custom-icon-badges-iota.vercel.app/favicon.png",
+  "slug": "custom-icon-badges",
   "env": {
     "DB_URL": {
       "description": "Mongo DB in the form 'mongodb+srv://dbuser:<password>@customdb.j8qibkw.mongodb.net/db-express?retryWrites=true&w=majority&appName=customdb'",
