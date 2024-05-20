@@ -17,7 +17,7 @@ class BadgePreview extends React.Component<{ url: string, label: string, onPrevi
 		const target = event.target as HTMLImageElement;
 		if (!target.src.includes("critical")) {
 			this.props.onPreviewSuccessfulChange(false)
-			target.src = "https://custom-icon-badges.vercel.app/badge/failed%20to%20load-try%20compressing%20the%20image%20to%20make%20it%20smaller-critical?logo=x-circle-fill";
+			target.src = "https://custom-icon-badges-iota.vercel.app/badge/failed%20to%20load-try%20compressing%20the%20image%20to%20make%20it%20smaller-critical?logo=x-circle-fill";
 		}
 	}
 
