@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # sau "yarn"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 10 # Mărim limita la 10 (poți pune mai mult)
+  
+  # Dacă ai un folder /server cu propriul package.json, adaugă și asta:
+  - package-ecosystem: "npm" # sau "yarn"
+    directory: "/server"
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 10
