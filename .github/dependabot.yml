@@ -1,14 +1,14 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-# Please see the documentation for all configuration options:
-# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-
 version: 2
 updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 10 # <-- new automatic limit for open PRs
+    labels:                      # <-- new automatic label for PRs
+      - "dependencies"
+    commit-message:
+      prefix: "fix"
     groups:
       production-dependencies:
         dependency-type: "production"
@@ -20,10 +20,16 @@ updates:
         update-types:
         - "minor"
         - "patch"
+
   - package-ecosystem: "npm"
     directory: "/server"
     schedule:
       interval: "weekly"
+    open-pull-requests-limit: 10 # <-- new
+    labels:                      # <-- new
+      - "dependencies"
+    commit-message:
+      prefix: "fix"
     groups:
       production-dependencies:
         dependency-type: "production"
