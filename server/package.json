@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@primer/octicons": "^19.27.0",
+    "@primer/octicons": "^19.28.0",
     "@types/express": "^5.0.6",
     "@types/feather-icons": "^4.29.3",
     "@types/primer__octicons": "^19.21.0",
@@ -19,7 +19,7 @@
     "node-fetch": "^3.3.2",
     "qs": "^6.15.2",
     "typescript": "^6.0.3",
-    "web-vitals": "^5.2.0"
+    "web-vitals": "^5.3.0"
   },
   "devDependencies": {
     "eslint": "^10.4.0"
