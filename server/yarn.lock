@@ -73,10 +73,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/retry/-/retry-0.4.3.tgz#c2b9d2e374ee62c586d3adbea87199b1d7a7a6ba"
   integrity sha512-bV0Tgo9K4hfPCek+aMAn81RppFKv2ySDQeMoSZuvTASywNTnVJCArCZE2FWqpvIatKu7VMRLWlR1EazvVhDyhQ==
 
-"@primer/octicons@^19.29.1":
-  version "19.29.1"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.29.1.tgz#8f7f323174da0d2e1e7dbdf1515a9c257dde6154"
-  integrity sha512-XVRArUP8bN+IEjfNQSquXAJinVqAWRx36sVvhN5VzC+gOLfbx16EfFFvcFhSVaqQJ+57PjBrbj75oqm8VlOoYQ==
+"@primer/octicons@^19.29.2":
+  version "19.29.2"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.29.2.tgz#0ce2d6d08574339e8c98876c26b7b61215f966de"
+  integrity sha512-n7zuEgzTz70m5dmBqpYuE8zpeLKxgf73OeDudQWByNzIwWLb0I/UlxqdCLkk6Qb338O7em0aNuhVfExNBVCfTQ==
   dependencies:
     object-assign "^4.1.1"
 
