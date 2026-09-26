@@ -104,10 +104,10 @@
   resolved "https://registry.yarnpkg.com/@keyv/serialize/-/serialize-1.1.1.tgz#0c01dd3a3483882af7cf3878d4e71d505c81fc4a"
   integrity sha512-dXn3FZhPv0US+7dtJsIi2R+c7qWYiReoEh5zUntWCf4oSpMNib8FDhSoed6m3QyZdx5hK7iLFkYk3rNxwt8vTA==
 
-"@primer/octicons@^19.36.0":
-  version "19.36.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.36.0.tgz#99eaf2c8fa59f32ee83ef3adf459fa99294b6ea2"
-  integrity sha512-oC+RG3N9i8kesxb1WWQE8eE/DgBMJ3hNHhMSvzMdAuDD0EavdYCbt6JFgSO3fhcH3rQxY2iDx23tH6A31AKWJA==
+"@primer/octicons@^19.38.0":
+  version "19.38.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.38.0.tgz#dfb239d9cb5e0e40cade3d5d9058d34ae9316f22"
+  integrity sha512-YUU2R66aDm72CdjlTyD663sCAjILrHWK2czw+BdTUkzZfcB7bXfO6GNXm22sepLOWKPkLHezVjIHch/KNd8rMg==
   dependencies:
     object-assign "^4.1.1"
 
