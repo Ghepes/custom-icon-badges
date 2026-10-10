@@ -4,22 +4,22 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@primer/octicons": "^19.38.0",
+    "@primer/octicons": "^19.40.0",
     "@types/express": "^5.0.6",
     "@types/feather-icons": "^4.29.3",
     "@types/primer__octicons": "^19.21.0",
     "body-parser": "^2.3.0",
     "concurrently": "^10.0.5",
     "cors": "^2.8.6",
-    "dotenv": "^18.0.4",
+    "dotenv": "^18.0.6",
     "express": "^5.2.1",
-    "express-rate-limit": "^8.7.0",
+    "express-rate-limit": "^8.7.1",
     "feather-icons": "^4.29.2",
     "monk": "^7.3.4",
     "node-fetch": "^3.3.2",
     "qs": "^6.16.0",
     "typescript": "^7.0.2",
-    "web-vitals": "^6.2.2"
+    "web-vitals": "^6.2.3"
   },
   "devDependencies": {
     "eslint": "^10.11.0"
