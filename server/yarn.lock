@@ -470,10 +470,10 @@ cliui@^9.0.1:
     strip-ansi "^7.1.0"
     wrap-ansi "^9.0.0"
 
-concurrently@^10.0.6:
-  version "10.0.6"
-  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-10.0.6.tgz#e80e72a091a008d4f6f48b4b631ee2c810556aaf"
-  integrity sha512-qgICXXFp2/3nAebRLmxcINKEXM1mLK3ij/y31P02VTs/KIkddIeC05n73DxOXsXMB9LFSqNU1/na3lDlOhcbIw==
+concurrently@^10.0.7:
+  version "10.0.7"
+  resolved "https://registry.yarnpkg.com/concurrently/-/concurrently-10.0.7.tgz#f05cd4c449f3725179e791e2605ffa4ab4b00231"
+  integrity sha512-zMCeLhawVIj3SLbpg0/BWCdJl1wcBSpcHKbNrhaM01P3xAlEWcH30Lea2q+F4uGZ7YM0scDK0dgpWyn1uCJj6w==
   dependencies:
     chalk "5.6.2"
     rxjs "7.8.2"
@@ -556,10 +556,10 @@ depd@^2.0.0, depd@~2.0.0:
   resolved "https://registry.yarnpkg.com/depd/-/depd-2.0.0.tgz#b696163cc757560d09cf22cc8fad1571b79e76df"
   integrity sha512-g7nH6P6dyDioJogAAGprGpCtVImJhpPk/roCzdb3fIh61/s/nPsfR6onyMwkCAR/OlC3yBC0lESvUoQEAssIrw==
 
-dotenv@^18.0.9:
-  version "18.0.9"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.9.tgz#5c565760ce7e6fb69f9477ebcd1a3b64c766f9c8"
-  integrity sha512-3fVOW4cB02R066PUSwn8O4TJyz9NckQl7F81blIbaq9jKBm2tSmOKky7ZHIXzGvkVPXCSn6jkpziBPZdGFs8Tw==
+dotenv@^18.0.10:
+  version "18.0.10"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-18.0.10.tgz#4171e67ba539a3d1513d7cbc51b8124e60714d28"
+  integrity sha512-89FAA1xchzK2mxVWdr5F/0rldwiueXs6zJM86rO66EzekR1iBdiXRthyG+m5GvkJaFH3C2LESzamTkgndmLT2A==
 
 dunder-proto@^1.0.1:
   version "1.0.1"
@@ -711,10 +711,10 @@ etag@^1.8.1:
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==
 
-express-rate-limit@^8.7.3:
-  version "8.7.3"
-  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-8.7.3.tgz#102f69b904bbb06225a304fef02002983e3fc406"
-  integrity sha512-zPLqDI2f0gV2WmGnacLf9XSSqn4VldRyP5LCzOwx0BKH40mO6+2PCFkoSsRO2jePx87/Kf6NUF6P2QOTKXHbQA==
+express-rate-limit@^8.7.4:
+  version "8.7.4"
+  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-8.7.4.tgz#51513ecb8f069bf9ddce69fc25ec45f707ca3f53"
+  integrity sha512-LKBXzX700wz3zAGNNmVnjRI5mEbYkLv7UbMI4+9Xa+JPcg2UZh6AgY/2CZh9RrJjFM5ttC/N1lD+KzyFoZITCw==
   dependencies:
     debug "^4.4.3"
     ip-address "^10.2.0"
