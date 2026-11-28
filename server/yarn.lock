@@ -117,10 +117,10 @@
   resolved "https://registry.yarnpkg.com/@keyv/serialize/-/serialize-1.1.1.tgz#0c01dd3a3483882af7cf3878d4e71d505c81fc4a"
   integrity sha512-dXn3FZhPv0US+7dtJsIi2R+c7qWYiReoEh5zUntWCf4oSpMNib8FDhSoed6m3QyZdx5hK7iLFkYk3rNxwt8vTA==
 
-"@primer/octicons@^19.42.0":
-  version "19.42.0"
-  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.42.0.tgz#81dba7b518296642757eaf330dc134d8586c0339"
-  integrity sha512-MEcHxVxNHu1I2Ndk5Mcwp7tfBiDk/EpytDJgKOfE2ldqIczWucVrZNeNU4wtEN5mnNudZ0YL5G0spax3bSMT4w==
+"@primer/octicons@^19.43.0":
+  version "19.43.0"
+  resolved "https://registry.yarnpkg.com/@primer/octicons/-/octicons-19.43.0.tgz#017de0022469cc0cc7dd21246565273b12854c7c"
+  integrity sha512-sOFYFCvZm6Nk7SgjfGk801rWIN2XzwsbDrDLzJcQi+YeeFBWMCgEX9OPJc7/9HDYAUF3LeYiAFgXFDWeiPl1kA==
   dependencies:
     object-assign "^4.1.1"
 
@@ -716,10 +716,10 @@ etag@^1.8.1:
   resolved "https://registry.yarnpkg.com/etag/-/etag-1.8.1.tgz#41ae2eeb65efa62268aebfea83ac7d79299b0887"
   integrity sha512-aIL5Fx7mawVa300al2BnEE4iNvo1qETxLrPI/o05L7z6go7fCw1J6EQmbK4FmJ2AS7kgVF/KEZWufBfdClMcPg==
 
-express-rate-limit@^8.7.4:
-  version "8.7.4"
-  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-8.7.4.tgz#51513ecb8f069bf9ddce69fc25ec45f707ca3f53"
-  integrity sha512-LKBXzX700wz3zAGNNmVnjRI5mEbYkLv7UbMI4+9Xa+JPcg2UZh6AgY/2CZh9RrJjFM5ttC/N1lD+KzyFoZITCw==
+express-rate-limit@^8.7.5:
+  version "8.7.5"
+  resolved "https://registry.yarnpkg.com/express-rate-limit/-/express-rate-limit-8.7.5.tgz#5064479b76eccea1813995888aca757a2dd6f135"
+  integrity sha512-wi+v38cx2EqD0JnhE/e74o5tFqKWUOAPFJIgyEiqJ8v2MNpoOAA3kI2hXYOI+YM+HE5yqbdAlVxm2GqOIeYOgA==
   dependencies:
     debug "^4.4.3"
     ip-address "^10.2.0"
